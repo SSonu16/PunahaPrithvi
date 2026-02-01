@@ -19,7 +19,6 @@ Punaha-Prithvi is an environmental gamification and civic action platform that m
 🔔 Notifications & Reminders: Stay updated on local challenges and actions.
 
 
-
 🛠 Tech Stack
 
 Frontend: React + Vite
@@ -45,8 +44,7 @@ npm run dev <br>
 
 Open in browser
 Visit http://localhost:5173
-Deploy using Vercel - View my project -  Link
-<img width="199" height="123" alt="image" src="https://github.com/user-attachments/assets/c510c2e7-9281-41ef-8458-70a217867184" />
+Deploy using Vercel - View my project -  https://punahaprithvi.vercel.app?_vercel_share=ASlYjBRvqyih45RFXUFIVLoc0o3lODwQ
 
 
 📝 Extended Description 
@@ -63,9 +61,7 @@ Data-driven insights: Users can view their contributions over time, helping them
 
 Community growth: Connect with like-minded individuals and collectively work towards a greener, safer, and healthier world.
 
+
 💡 Contribution
 Contributions are welcome! Feel free to submit issues, feature requests, or pull requests. Let’s make the world greener together!
-
-📜 License
-MIT License
 
