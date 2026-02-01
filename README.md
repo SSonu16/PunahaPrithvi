@@ -1,8 +1,7 @@
 ﻿# PunahaPrithvi
 
 #Deployment<br>
-Click here - Link 
-<img width="199" height="123" alt="image" src="https://github.com/user-attachments/assets/1dfdff8b-d375-42df-a289-970aea439049" />
+Click here - https://punahaprithvi.vercel.app?_vercel_share=ASlYjBRvqyih45RFXUFIVLoc0o3lODwQ
 
 🌱 Punaha-Prithvi <br>
 Punaha-Prithvi is an environmental gamification and civic action platform that motivates users to make positive changes in their community and the environment. Complete eco-friendly tasks, report civic issues, and track your impact—all in one app. <br>
@@ -69,3 +68,4 @@ Contributions are welcome! Feel free to submit issues, feature requests, or pull
 
 📜 License
 MIT License
+
